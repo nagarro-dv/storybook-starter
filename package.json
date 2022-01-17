@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "@nagarro-dv/storybook-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "start-storybook -p 6006"
+  },
+  "dependencies": {
+    "vue": "3.2.25"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.7",
+    "@storybook/addon-actions": "6.4.13",
+    "@storybook/addon-essentials": "6.4.13",
+    "@storybook/addon-links": "6.4.13",
+    "@storybook/vue3": "6.4.13",
+    "babel-loader": "8.2.3",
+    "vue-loader": "16.8.3"
+  }
+}
